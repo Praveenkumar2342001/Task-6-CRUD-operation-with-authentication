@@ -1,0 +1,7 @@
+crud/CRUD/Task/config/SecurityConfig.class
+crud/CRUD/Task/CrudTaskApplication.class
+crud/CRUD/Task/service/PostServiceImpl.class
+crud/CRUD/Task/model/Post.class
+crud/CRUD/Task/controller/PostController.class
+crud/CRUD/Task/repository/PostRepository.class
+crud/CRUD/Task/service/PostService.class
